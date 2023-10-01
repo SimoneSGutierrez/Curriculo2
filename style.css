@@ -5,20 +5,21 @@ h1{
 h1{
   background-color:dimgrey
 }
-h1
-.centralizar{
+h1 {
   text-align:center;
 }
 h2{
-  background-color: dimgray;
-  color:white
+  /*background-color: dimgray;*/
+  color: dimgray;
 }
 h3{
-  color:darkslategrey
+  color: #7fa653;
 }
 h4{
   color:dimgray
 }
 body{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1px 10px;
+  text-align: justify;
 }
